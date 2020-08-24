@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "296169531564",
+    "firebase_url": "https://homecontroller-29e66.firebaseio.com",
+    "project_id": "homecontroller-29e66",
+    "storage_bucket": "homecontroller-29e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296169531564:android:e95490bb270b0015e29709",
+        "android_client_info": {
+          "package_name": "com.demo.homecontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296169531564-39bvmhu9jlit92d3ks5esla3v8gdjjcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.homecontroller",
+            "certificate_hash": "235a50e7ddb695ce87ef85046b88e72752f74651"
+          }
+        },
+        {
+          "client_id": "296169531564-uellb6s7dpug7i2hsv14ismiel1g2qq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIiOIdIvN1JnZaLIknX1g9Qf3wvRVH8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296169531564-uellb6s7dpug7i2hsv14ismiel1g2qq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

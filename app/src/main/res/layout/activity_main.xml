@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:text="Smart Lock"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="175dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <ToggleButton
+            android:layout_width="75dp"
+            android:layout_height="150dp"
+            android:checked="true" />
+
+        <ToggleButton
+            android:layout_width="75dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="50dp"
+            android:checked="true" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TV"
+            android:layout_marginStart="15dp"
+            android:textSize="25sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="STOVE"
+            android:layout_marginStart="80dp"
+            android:textSize="25sp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
